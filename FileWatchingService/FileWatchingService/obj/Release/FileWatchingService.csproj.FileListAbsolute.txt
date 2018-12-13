@@ -1,0 +1,16 @@
+C:\Users\Mosarvit\Google Drive\_CODING\PROGRAMMING\FileWatchingService\FileWatchingService\bin\Release\FileWatchingService.exe.config
+C:\Users\Mosarvit\Google Drive\_CODING\PROGRAMMING\FileWatchingService\FileWatchingService\bin\Release\FileWatchingService.exe
+C:\Users\Mosarvit\Google Drive\_CODING\PROGRAMMING\FileWatchingService\FileWatchingService\bin\Release\FileWatchingService.pdb
+C:\Users\Mosarvit\Google Drive\_CODING\PROGRAMMING\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.ProjectInstaller.resources
+C:\Users\Mosarvit\Google Drive\_CODING\PROGRAMMING\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.csproj.GenerateResource.cache
+C:\Users\Mosarvit\Google Drive\_CODING\PROGRAMMING\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.csproj.CoreCompileInputs.cache
+C:\Users\Mosarvit\Google Drive\_CODING\PROGRAMMING\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.exe
+C:\Users\Mosarvit\Google Drive\_CODING\PROGRAMMING\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.pdb
+C:\temp\FileWatchingService\FileWatchingService\bin\Release\FileWatchingService.exe.config
+C:\temp\FileWatchingService\FileWatchingService\bin\Release\FileWatchingService.exe
+C:\temp\FileWatchingService\FileWatchingService\bin\Release\FileWatchingService.pdb
+C:\temp\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.ProjectInstaller.resources
+C:\temp\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.csproj.GenerateResource.cache
+C:\temp\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.csproj.CoreCompileInputs.cache
+C:\temp\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.exe
+C:\temp\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.pdb

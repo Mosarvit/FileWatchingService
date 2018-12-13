@@ -14,3 +14,11 @@ C:\temp\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.
 C:\temp\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.csproj.CoreCompileInputs.cache
 C:\temp\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.exe
 C:\temp\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.pdb
+C:\Users\Mosarvit\Documents\GitHub\FileWatchingService\FileWatchingService\FileWatchingService\bin\Release\FileWatchingService.exe.config
+C:\Users\Mosarvit\Documents\GitHub\FileWatchingService\FileWatchingService\FileWatchingService\bin\Release\FileWatchingService.exe
+C:\Users\Mosarvit\Documents\GitHub\FileWatchingService\FileWatchingService\FileWatchingService\bin\Release\FileWatchingService.pdb
+C:\Users\Mosarvit\Documents\GitHub\FileWatchingService\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.ProjectInstaller.resources
+C:\Users\Mosarvit\Documents\GitHub\FileWatchingService\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.csproj.GenerateResource.cache
+C:\Users\Mosarvit\Documents\GitHub\FileWatchingService\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.csproj.CoreCompileInputs.cache
+C:\Users\Mosarvit\Documents\GitHub\FileWatchingService\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.exe
+C:\Users\Mosarvit\Documents\GitHub\FileWatchingService\FileWatchingService\FileWatchingService\obj\Release\FileWatchingService.pdb
